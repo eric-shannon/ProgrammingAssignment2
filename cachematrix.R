@@ -15,6 +15,7 @@
 ##   matrix inv holds the inverse of the matrix x.  This function also defines
 ##   four functions that allow for the setting and getting of the values of
 ##   these matrices.  Once these functions are defined, a list containg
+##   the functions that will get and set the matrices x and inv will be reurned.
 ##
 ##   The four functions are as follows:
 ##        set()     - This function sets the value of the matrix x and
