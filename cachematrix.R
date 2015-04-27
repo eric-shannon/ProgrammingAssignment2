@@ -26,7 +26,7 @@
 ## *****************************************************************************
 
 makeCacheMatrix <- function(x = matrix()) {
-     inv <- NULLcacheSolve
+     inv <- NULL
 
      set <- function(y) {
           x <<- y
